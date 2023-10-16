@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+y55uon07OwJIrK1PKSFxVPklG90/HotM/2Z1dPXJ7zNsH26AOteoMC67bkoR6fIDWuyKC7CoWYkO92duQpSFA==",
+  "success": true,
+  "projectFilePath": "/Users/chamara/Projects/csharp/dongle/dongle.csproj",
+  "expectedPackageFiles": [
+    "/Users/chamara/.nuget/packages/runtime.linux-arm.runtime.native.system.io.ports/6.0.0/runtime.linux-arm.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "/Users/chamara/.nuget/packages/runtime.linux-arm64.runtime.native.system.io.ports/6.0.0/runtime.linux-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "/Users/chamara/.nuget/packages/runtime.linux-x64.runtime.native.system.io.ports/6.0.0/runtime.linux-x64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "/Users/chamara/.nuget/packages/runtime.native.system.io.ports/6.0.0/runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "/Users/chamara/.nuget/packages/runtime.osx-arm64.runtime.native.system.io.ports/6.0.0/runtime.osx-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "/Users/chamara/.nuget/packages/runtime.osx-x64.runtime.native.system.io.ports/6.0.0/runtime.osx-x64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "/Users/chamara/.nuget/packages/system.io.ports/6.0.0/system.io.ports.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
